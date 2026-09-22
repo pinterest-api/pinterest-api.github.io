@@ -21,4 +21,5 @@ This is worth the integration work if you are an advertiser who needs server-sid
 *This is an independent page about a third-party product, with no affiliation to or endorsement from Pinterest; all trademarks belong to their respective owners.*
 
 
+
 _Last reviewed: 2026-09-22_
